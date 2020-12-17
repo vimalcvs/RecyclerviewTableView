@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerviewTableView</string>
+    <string name="tableview_using_recyclerview">TableView using RecyclerView</string>
+</resources>
